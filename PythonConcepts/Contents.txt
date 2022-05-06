@@ -1,0 +1,28 @@
+Contents:
+
+1. Introduction to Python
+2. Environmental Setup
+3. Python Basics:
+	3.1. Basic Syntax
+	3.2. Variables
+	3.3. Operators
+	3.4. Control Flow
+		3.4.1. Decision making
+		3.4.2. Loop
+	3.5. Numbers
+	3.6. Strings
+	3.7. Lists
+	3.9  Tuples
+	3.10. Dictionary
+	3.11. Functions (lambda)
+	3.12. Modules
+	3.13. File I/O
+	3.14. Exceptions
+4. Advanced Python:
+	4.1. Regular Expression
+	4.2. Classes (OOP)
+	4.3. Generators 
+	4.4. Decorators
+	4.5. Unittest 
+	4.6. Virtual Environment
+	4.7. Multi Threading

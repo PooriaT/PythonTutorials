@@ -1,0 +1,19 @@
+Contents:
+
+1. Introduction to Pandas
+2. Pandas Data Structures 
+3. Pandas Series
+4. Pandas DataFrames
+5. Pandas Input and Output
+6. Informative Functions
+7. Statistical Functions 
+8. Data Cleaning
+9. Function Definition
+10. Reindexing, Iterating and Sorting
+11. Windowing Operations
+12. GroupBy and Aggregations
+13. Merging and Concatenation
+14.Date Functions and Timedelta
+15. Categorical Data
+16. Pandas Customization
+17. Visualization

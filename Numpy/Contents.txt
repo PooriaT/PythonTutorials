@@ -1,0 +1,21 @@
+Contents:
+
+1. Introduction to Numpy
+2. Array Creation
+3. Data Types
+4. Indexing and Slicing
+5. Array Manipulation
+6. Broadcasting
+7. Iterating Over Arrays
+8. Arrays Iterating
+9. Search, Sort and Filter
+10. Mathematical and Statistical Functions
+11. Binary Functions
+12. String Functions 
+13. Matrix Library and Linear Algebra
+14. Input and Output
+15. Randomization
+16. Universal Functions
+
+
+
