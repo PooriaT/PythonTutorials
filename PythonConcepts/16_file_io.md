@@ -75,7 +75,7 @@ File access mode:  r+
 
 #### The Read Function
 
-By `rear()` method, a string can be read from an opened file.
+By `read()` method, a string can be read from an opened file.
 
 `file_obj.read([count])`
 
